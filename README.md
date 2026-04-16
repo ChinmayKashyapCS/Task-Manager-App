@@ -1,4 +1,4 @@
-<img width="1083" height="833" alt="Screenshot 2026-04-16 123155" src="https://github.com/user-attachments/assets/9d7ff5c0-2282-4c00-b4c5-7107a77dd565" /># 🚀 Task Manager – Full Stack Assignment
+# 🚀 Task Manager – Full Stack Assignment
 
 A scalable full-stack web application with authentication, role-based access, and task management built as part of a backend developer internship assignment.
 
@@ -20,6 +20,7 @@ A scalable full-stack web application with authentication, role-based access, an
 - View tasks (user-specific / admin-all)
 - Update task status (pending/completed)
 - Delete tasks
+- <img width="1083" height="833" alt="Screenshot 2026-04-16 123155" src="https://github.com/user-attachments/assets/9d7ff5c0-2282-4c00-b4c5-7107a77dd565" />
 - <img width="1083" height="833" alt="Screenshot 2026-04-16 123155" src="https://github.com/user-attachments/assets/dbce1335-30cb-4768-8385-88f2e5d5282e" />
 -<img width="1090" height="809" alt="Screenshot 2026-04-16 123324" src="https://github.com/user-attachments/assets/d9f49dc5-418c-450f-b468-9c58e95e4ec3" />
 -<img width="1105" height="726" alt="Screenshot 2026-04-16 123337" src="https://github.com/user-attachments/assets/1d582080-efcc-45ea-8865-1fa537eadf18" />
